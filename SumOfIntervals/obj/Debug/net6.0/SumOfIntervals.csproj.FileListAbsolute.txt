@@ -1,0 +1,15 @@
+C:\Users\user\Documents\VSCodeProject\CS_Project\SumOfIntervals\bin\Debug\net6.0\SumOfIntervals.exe
+C:\Users\user\Documents\VSCodeProject\CS_Project\SumOfIntervals\bin\Debug\net6.0\SumOfIntervals.deps.json
+C:\Users\user\Documents\VSCodeProject\CS_Project\SumOfIntervals\bin\Debug\net6.0\SumOfIntervals.runtimeconfig.json
+C:\Users\user\Documents\VSCodeProject\CS_Project\SumOfIntervals\bin\Debug\net6.0\SumOfIntervals.dll
+C:\Users\user\Documents\VSCodeProject\CS_Project\SumOfIntervals\bin\Debug\net6.0\SumOfIntervals.pdb
+C:\Users\user\Documents\VSCodeProject\CS_Project\SumOfIntervals\obj\Debug\net6.0\SumOfIntervals.csproj.AssemblyReference.cache
+C:\Users\user\Documents\VSCodeProject\CS_Project\SumOfIntervals\obj\Debug\net6.0\SumOfIntervals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\VSCodeProject\CS_Project\SumOfIntervals\obj\Debug\net6.0\SumOfIntervals.AssemblyInfoInputs.cache
+C:\Users\user\Documents\VSCodeProject\CS_Project\SumOfIntervals\obj\Debug\net6.0\SumOfIntervals.AssemblyInfo.cs
+C:\Users\user\Documents\VSCodeProject\CS_Project\SumOfIntervals\obj\Debug\net6.0\SumOfIntervals.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\VSCodeProject\CS_Project\SumOfIntervals\obj\Debug\net6.0\SumOfIntervals.dll
+C:\Users\user\Documents\VSCodeProject\CS_Project\SumOfIntervals\obj\Debug\net6.0\refint\SumOfIntervals.dll
+C:\Users\user\Documents\VSCodeProject\CS_Project\SumOfIntervals\obj\Debug\net6.0\SumOfIntervals.pdb
+C:\Users\user\Documents\VSCodeProject\CS_Project\SumOfIntervals\obj\Debug\net6.0\SumOfIntervals.genruntimeconfig.cache
+C:\Users\user\Documents\VSCodeProject\CS_Project\SumOfIntervals\obj\Debug\net6.0\ref\SumOfIntervals.dll

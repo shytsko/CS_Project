@@ -1,0 +1,15 @@
+C:\Users\user\Documents\VSCodeProject\CS_Project\ArrayShift\obj\Debug\net6.0\ArrayShift.csproj.AssemblyReference.cache
+C:\Users\user\Documents\VSCodeProject\CS_Project\ArrayShift\obj\Debug\net6.0\ArrayShift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\VSCodeProject\CS_Project\ArrayShift\obj\Debug\net6.0\ArrayShift.AssemblyInfoInputs.cache
+C:\Users\user\Documents\VSCodeProject\CS_Project\ArrayShift\obj\Debug\net6.0\ArrayShift.AssemblyInfo.cs
+C:\Users\user\Documents\VSCodeProject\CS_Project\ArrayShift\obj\Debug\net6.0\ArrayShift.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\VSCodeProject\CS_Project\ArrayShift\bin\Debug\net6.0\ArrayShift.exe
+C:\Users\user\Documents\VSCodeProject\CS_Project\ArrayShift\bin\Debug\net6.0\ArrayShift.deps.json
+C:\Users\user\Documents\VSCodeProject\CS_Project\ArrayShift\bin\Debug\net6.0\ArrayShift.runtimeconfig.json
+C:\Users\user\Documents\VSCodeProject\CS_Project\ArrayShift\bin\Debug\net6.0\ArrayShift.dll
+C:\Users\user\Documents\VSCodeProject\CS_Project\ArrayShift\bin\Debug\net6.0\ArrayShift.pdb
+C:\Users\user\Documents\VSCodeProject\CS_Project\ArrayShift\obj\Debug\net6.0\ArrayShift.dll
+C:\Users\user\Documents\VSCodeProject\CS_Project\ArrayShift\obj\Debug\net6.0\refint\ArrayShift.dll
+C:\Users\user\Documents\VSCodeProject\CS_Project\ArrayShift\obj\Debug\net6.0\ArrayShift.pdb
+C:\Users\user\Documents\VSCodeProject\CS_Project\ArrayShift\obj\Debug\net6.0\ArrayShift.genruntimeconfig.cache
+C:\Users\user\Documents\VSCodeProject\CS_Project\ArrayShift\obj\Debug\net6.0\ref\ArrayShift.dll

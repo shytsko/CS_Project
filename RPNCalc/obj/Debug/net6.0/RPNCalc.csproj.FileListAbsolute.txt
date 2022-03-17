@@ -1,0 +1,15 @@
+C:\Users\user\Documents\VSCodeProject\CS_Project\RPNCalc\obj\Debug\net6.0\RPNCalc.csproj.AssemblyReference.cache
+C:\Users\user\Documents\VSCodeProject\CS_Project\RPNCalc\obj\Debug\net6.0\RPNCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\VSCodeProject\CS_Project\RPNCalc\obj\Debug\net6.0\RPNCalc.AssemblyInfoInputs.cache
+C:\Users\user\Documents\VSCodeProject\CS_Project\RPNCalc\obj\Debug\net6.0\RPNCalc.AssemblyInfo.cs
+C:\Users\user\Documents\VSCodeProject\CS_Project\RPNCalc\obj\Debug\net6.0\RPNCalc.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\VSCodeProject\CS_Project\RPNCalc\bin\Debug\net6.0\RPNCalc.exe
+C:\Users\user\Documents\VSCodeProject\CS_Project\RPNCalc\bin\Debug\net6.0\RPNCalc.deps.json
+C:\Users\user\Documents\VSCodeProject\CS_Project\RPNCalc\bin\Debug\net6.0\RPNCalc.runtimeconfig.json
+C:\Users\user\Documents\VSCodeProject\CS_Project\RPNCalc\bin\Debug\net6.0\RPNCalc.dll
+C:\Users\user\Documents\VSCodeProject\CS_Project\RPNCalc\bin\Debug\net6.0\RPNCalc.pdb
+C:\Users\user\Documents\VSCodeProject\CS_Project\RPNCalc\obj\Debug\net6.0\RPNCalc.dll
+C:\Users\user\Documents\VSCodeProject\CS_Project\RPNCalc\obj\Debug\net6.0\refint\RPNCalc.dll
+C:\Users\user\Documents\VSCodeProject\CS_Project\RPNCalc\obj\Debug\net6.0\RPNCalc.pdb
+C:\Users\user\Documents\VSCodeProject\CS_Project\RPNCalc\obj\Debug\net6.0\RPNCalc.genruntimeconfig.cache
+C:\Users\user\Documents\VSCodeProject\CS_Project\RPNCalc\obj\Debug\net6.0\ref\RPNCalc.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Documents\VSCodeProject\CS_Project\DecToBin\obj\Debug\net6.0\DecToBin.csproj.AssemblyReference.cache
+C:\Users\user\Documents\VSCodeProject\CS_Project\DecToBin\obj\Debug\net6.0\DecToBin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\VSCodeProject\CS_Project\DecToBin\obj\Debug\net6.0\DecToBin.AssemblyInfoInputs.cache
+C:\Users\user\Documents\VSCodeProject\CS_Project\DecToBin\obj\Debug\net6.0\DecToBin.AssemblyInfo.cs
+C:\Users\user\Documents\VSCodeProject\CS_Project\DecToBin\obj\Debug\net6.0\DecToBin.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\VSCodeProject\CS_Project\DecToBin\bin\Debug\net6.0\DecToBin.exe
+C:\Users\user\Documents\VSCodeProject\CS_Project\DecToBin\bin\Debug\net6.0\DecToBin.deps.json
+C:\Users\user\Documents\VSCodeProject\CS_Project\DecToBin\bin\Debug\net6.0\DecToBin.runtimeconfig.json
+C:\Users\user\Documents\VSCodeProject\CS_Project\DecToBin\bin\Debug\net6.0\DecToBin.dll
+C:\Users\user\Documents\VSCodeProject\CS_Project\DecToBin\bin\Debug\net6.0\DecToBin.pdb
+C:\Users\user\Documents\VSCodeProject\CS_Project\DecToBin\obj\Debug\net6.0\DecToBin.dll
+C:\Users\user\Documents\VSCodeProject\CS_Project\DecToBin\obj\Debug\net6.0\refint\DecToBin.dll
+C:\Users\user\Documents\VSCodeProject\CS_Project\DecToBin\obj\Debug\net6.0\DecToBin.pdb
+C:\Users\user\Documents\VSCodeProject\CS_Project\DecToBin\obj\Debug\net6.0\DecToBin.genruntimeconfig.cache
+C:\Users\user\Documents\VSCodeProject\CS_Project\DecToBin\obj\Debug\net6.0\ref\DecToBin.dll
